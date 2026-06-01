@@ -1,7 +1,7 @@
-<h1 align="center">⚡ Hi there 👋 I'm Gerald Palms ⚡</h1>
+<h1 align="center">⚡ Hi there 👋 I'm Gerald Palma ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=BS+Information+System+Student;System+Development+Enthusiast;Future+Information+Systems+Professional;Davao+del+Norte+State+College" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=BS+Information+System+Student;System+Development+Enthusiast;Future+Information+System+Professional;Davao+del+Norte+State+College" />
 </p>
 
 👋 Welcome to My GitHub
@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a **Bachelor of Science in Information Systems (BSIS)*
 
 💫 About Me
 
-Hello! My name is **Gerald Palms**, a BS Information Systems student currently studying at **Davao del Norte State College**.
+Hello! My name is **Gerald Karl P. Palms**, a BSIS student currently studying at **Davao del Norte State College**.
 
 I am passionate about technology and how information systems help organizations improve efficiency and decision-making. I enjoy learning new technologies and continuously improving my technical and problem-solving skills.
 
