@@ -40,7 +40,7 @@ My goal is to become a successful Information Systems professional capable of de
 
 🛠️ Skills
 
-* HTML , CSS
+* Basic HTML , CSS
 * Basic Java Programming
 * MySQL Database Management
 * Canva Design
